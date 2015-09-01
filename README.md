@@ -1,0 +1,2 @@
+# fender-strat
+Stratocaster
